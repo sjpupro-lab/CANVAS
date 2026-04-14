@@ -245,6 +245,34 @@ make clean
 - **Rewind / Branching**: Traverse delta chains backwards to trace the learning history
 - **Lightweight**: 320 KB per frame; engine core is a few MB — runs on Termux and embedded systems
 
-## License
+## License / 라이선스
 
-See [LICENSE](LICENSE) for details.
+This project is dual-licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) for open-source use, and a separate Commercial License for proprietary use.
+
+이 프로젝트는 오픈소스 사용을 위한 GNU Affero General Public License v3.0 (AGPL-3.0)과 상업적 사용을 위한 별도의 상업용 라이선스로 이중 라이선스됩니다.
+
+### Commercial Use / 상업적 이용
+
+If you want to use this engine in a commercial product, SaaS, API service, or any closed-source system,
+you must obtain a commercial license.
+
+이 엔진을 상업용 제품, SaaS, API 서비스 또는 비공개 소스 시스템에 사용하려면
+별도의 상업용 라이선스가 필요합니다.
+
+See [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for details.
+자세한 내용은 [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)를 참조하십시오.
+
+Contact / 문의: https://github.com/sjpupro-lab/CANVAS
+
+---
+
+## Usage Restrictions / 사용 제한
+
+This software must NOT be used for: / 이 소프트웨어는 다음 목적으로 사용할 수 없습니다:
+
+- Illegal content / 불법 콘텐츠
+- Exploitation of minors / 미성년자 착취
+- Harmful or abusive applications / 유해하거나 악용적인 애플리케이션
+
+The authors are not responsible for misuse.
+저자는 오용에 대해 책임을 지지 않습니다.

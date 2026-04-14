@@ -1,3 +1,13 @@
+/*
+ * SPATIAL-PATTERN-AI (CANVAS)
+ * Copyright (c) 2026 sjpupro-lab
+ * GitHub: https://github.com/sjpupro-lab/CANVAS
+ *
+ * Licensed under AGPL v3.
+ * Commercial use requires a separate license.
+ * See COMMERCIAL_LICENSE.md for details.
+ */
+
 #ifndef SPATIAL_LAYERS_H
 #define SPATIAL_LAYERS_H
 
